@@ -9,7 +9,7 @@ GEM
     maruku (0.7.3)
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
-    rack (2.2.7)
+    rack (2.2.8.1)
     rack-protection (3.0.6)
       rack
     rack-ssl-enforcer (0.2.9)
